@@ -1,0 +1,36 @@
+{
+companyUsersExampleInfo: [
+    {
+      name: "Chris Purnell",
+      team: "Chick Fila",
+      email: 'Chrisp@gmail.com',
+      admin: true,
+      active: true,
+      status: 'joined'
+    },
+    {
+      name: "Will Marttala",
+      team: "PopEyes",
+      email: 'Willm@ymail.com',
+      admin: false,
+      active: false,
+      status: 'pending...'
+    },
+    {
+      name: "Frank Fournier",
+      email: 'FrankF@aol.com',
+      team: "Zaxbys",
+      admin: false,
+      active: false,
+      status: 'pending...'
+    },
+    {
+        name: "Helena Makendengue",
+        email: 'HelenaM@aol.com',
+        team: "Chick Fila",
+        admin: true,
+        active: true,
+        status: 'pending...'
+      },
+  ];
+}
